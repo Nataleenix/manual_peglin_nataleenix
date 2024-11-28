@@ -1,4 +1,4 @@
-# Manual Peglin v1.0
+# Peglin AP Manual v1.0
 Randomization for Peglin using the archipelago manual client
 
 ## Features
